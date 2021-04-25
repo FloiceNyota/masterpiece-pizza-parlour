@@ -59,7 +59,6 @@ nav .navbar{
 }
 
 .landing{
-  background-image: url("../images/background.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -69,7 +68,6 @@ nav .navbar{
   overflow-x: hidden;
 }
 #contact{
-  background-image: url("../images/contact.webp");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -271,7 +269,6 @@ td,th{
 .menu {
   height: 350px;
   background-attachment: fixed;
-  background-image: url("../images/images.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
